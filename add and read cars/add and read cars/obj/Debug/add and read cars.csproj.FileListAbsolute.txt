@@ -1,0 +1,17 @@
+G:\projects\csharp\add and read cars\add and read cars\bin\Debug\add and read cars.exe.config
+G:\projects\csharp\add and read cars\add and read cars\bin\Debug\add and read cars.exe
+G:\projects\csharp\add and read cars\add and read cars\bin\Debug\add and read cars.pdb
+G:\projects\csharp\add and read cars\add and read cars\obj\Debug\add and read cars.csproj.AssemblyReference.cache
+G:\projects\csharp\add and read cars\add and read cars\obj\Debug\add_and_read_cars.Form1.resources
+G:\projects\csharp\add and read cars\add and read cars\obj\Debug\add_and_read_cars.Properties.Resources.resources
+G:\projects\csharp\add and read cars\add and read cars\obj\Debug\add and read cars.csproj.GenerateResource.cache
+G:\projects\csharp\add and read cars\add and read cars\obj\Debug\add and read cars.csproj.CoreCompileInputs.cache
+G:\projects\csharp\add and read cars\add and read cars\obj\Debug\add and read cars.exe
+G:\projects\csharp\add and read cars\add and read cars\obj\Debug\add and read cars.pdb
+G:\projects\csharp\add and read cars\add and read cars\bin\Debug\MySql.Data.dll
+G:\projects\csharp\add and read cars\add and read cars\bin\Debug\System.Memory.dll
+G:\projects\csharp\add and read cars\add and read cars\bin\Debug\System.Threading.Tasks.Extensions.dll
+G:\projects\csharp\add and read cars\add and read cars\bin\Debug\System.Numerics.Vectors.dll
+G:\projects\csharp\add and read cars\add and read cars\bin\Debug\System.Buffers.dll
+G:\projects\csharp\add and read cars\add and read cars\bin\Debug\MySql.Data.xml
+G:\projects\csharp\add and read cars\add and read cars\obj\Debug\add and .C615D90B.Up2Date
